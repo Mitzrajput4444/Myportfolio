@@ -49,10 +49,10 @@ function Navbar() {
                       <div className='flex flex-col gap-5 mt-8'>
                 <h2 className='ani'>Find Me In </h2>
                 <div className='flex gap-4'>
-                    <span className='myIcon'> <FaFacebookF/> </span>
-                    <span className='myIcon'> <FaLinkedin/> </span>
+                    <span className='myIcon'><a href='https://www.facebook.com/'>  <FaFacebookF/></a></span>
+                    <span className='myIcon'> <a href="https://in.linkedin.com/"><FaLinkedin/></a> </span>
                     <span className='myIcon'> <a href='https://www.instagram.com/mitz_rajput4444/'> <FaInstagram/></a> </span>
-                    <span className='myIcon'> <FaTwitter/> </span>
+                    <span className='myIcon'> <a href='https://twitter.com/?lang=en-in'> <FaTwitter/></a></span>
                 </div>
      
         </div>
